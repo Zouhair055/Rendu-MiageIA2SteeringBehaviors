@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+
+body {
+    font-family: 'Rubik Wet Paint', sans-serif; /* Utilisez cette police dans le corps du document */
+}
